@@ -1,3 +1,8 @@
 
-.backgorund {background:  black ;  }
-.verdana {font-family: verdana ; color: white ; }
+.background {background-color : black ;  }
+
+.verdana {font-family: verdana ; color: white ; text-align:  center ; }
+
+.mainheading { font-size: 50px ;  }
+
+.download { color: aquamarine ; font-size: 16px ; font-family: verdana ; text-align: center; }
