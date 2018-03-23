@@ -1,8 +1,14 @@
 
 .background {background-color : black ;  }
 
-.verdana {font-family: verdana ; color: white ; text-align: center ; }
+.centring {text-align: center;}
+
+.verdana {font-family: verdana ; color: white ; font-size: 50px;  }
 
 .mainheading { font-size: 50px ;  }
 
-.download { color: aquamarine ; font-size: 16px ; font-family: verdana ; text-align: center; }
+.download { color: aquamarine ; font-size: 16px ; font-family: verdana ;  }
+
+p {font-family: verdana ; font-size: 21px ; color: grey ; }
+
+.secondheading { font-weight: bold ; font-size: 42px ;  }
